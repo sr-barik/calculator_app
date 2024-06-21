@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "calculator-app-fb8be",
+          "appId": "1:612189041155:android:333a6447c506c624785436",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "calculator-app-fb8be",
+          "configurations": {
+            "android": "1:612189041155:android:333a6447c506c624785436",
+            "ios": "1:612189041155:ios:7e584aceea9de8f2785436",
+            "macos": "1:612189041155:ios:7e584aceea9de8f2785436",
+            "web": "1:612189041155:web:a7ec8225548db6a4785436",
+            "windows": "1:612189041155:web:8875abb42c4062dc785436"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-central1"
+    }
+  }
+}

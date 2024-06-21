@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612189041155",
+    "project_id": "calculator-app-fb8be",
+    "storage_bucket": "calculator-app-fb8be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612189041155:android:333a6447c506c624785436",
+        "android_client_info": {
+          "package_name": "com.example.calculator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBfoMZZtMRcIqsnz7C4Nh9sUdCGPdkfwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
